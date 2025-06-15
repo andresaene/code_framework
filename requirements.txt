@@ -1,0 +1,2 @@
+-e git+https://github.com/andresaene/MyFrameworks.git@19eefd8c7e26ed54b83931f2b1cc40a25df6d573#egg=chatui
+tk==0.1.0
